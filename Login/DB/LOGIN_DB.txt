@@ -1,0 +1,11 @@
+Table Name : USER
+
+Column Names:
+
+name (*, primary key,  varchar)
+First Name(*, varchar)
+Last Name(*, varchar)
+password(*, varchar)
+p_email(* personal email, varchar)
+o_email(optional official email, varchar)
+pic(optional, blob)
